@@ -1,0 +1,2 @@
+# ysc
+YSC scoreboard system
